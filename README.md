@@ -2,7 +2,7 @@
 A easy to setup second keyboard, designed for everyone.
 
 ### Support
-Windows is supported only as the server (where thje hotkeys will run) and a raspberry pi is required to run the detector
+Windows is supported only as the server (where the hotkeys will run) and a raspberry pi is required to run the detector
 
 ## WARNING
 This will download a copy of [AutoHotkey_H](https://hotkeyit.github.io/v2/), a DLL version of [AutoHotkey](http://autohotkey.com/)
@@ -44,7 +44,7 @@ The following keys are not blocked by 2Keys, but can still be remapped:
 
 ## Sofware used & inspiration
 Inspired by LTT editor Taran's second keyboard project: [https://github.com/TaranVH/2nd-keyboard](https://github.com/TaranVH/2nd-keyboard)
-Uses AutoHotkey_H (a DLL version of AutoHotkey): [https://hotkeyit.github.io/v2/][https://hotkeyit.github.io/v2/]
+Uses AutoHotkey_H (a DLL version of AutoHotkey): [https://hotkeyit.github.io/v2/]
 
 ## License
 Copyright 2018 Kishan Sambhi
